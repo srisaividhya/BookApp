@@ -1,0 +1,13 @@
+
+a{
+    font-size: 20px;
+    font-style: oblique;
+}
+
+form{
+    margin-left: 500px;
+}
+input{
+    margin-left: 10px;
+    border-radius: 10px;
+}
