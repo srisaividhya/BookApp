@@ -6,7 +6,7 @@ import { GenreComponent } from './genre/genre.component';
 import { HomeComponent } from './home/home.component';
 
 const routes: Routes = [
-    {path: 'genre', component : GenreComponent} ,   
+    {path: 'books', component : GenreComponent} ,   
   {path : 'home', component:HomeComponent },
 
   
